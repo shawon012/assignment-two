@@ -1,0 +1,165 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+/* first section whole works  */
+.first-section{
+    background-color:#f3cc9f;
+}
+/* ------------- */
+/* navigation  */
+.login{
+    padding-left: 15px;
+}
+.options{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 15px;
+    padding-right: 50px;
+    padding-top: 63px;
+}
+.ga{
+    padding-left: 150px;
+    padding-top: 50px;
+    padding-right: 400px;
+}
+.head .navigate{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.head{
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+/* -------------------------- */
+
+ .hi{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+.band{
+    margin-top: 60px;
+}
+.band h1{
+    font-weight: 700;
+font-size: 64px;
+}
+.band .hi.a{
+    padding-top: 0px;
+    margin-top:0px;
+    /* padding-bottom: 20px; */
+    margin-bottom: 20px;
+}
+.band .hi.b{
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+.there{
+    margin-bottom: 20px;
+}
+button{
+    padding: 10px;
+    background-color: #FF900E;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 8px;
+    color:#FFFFFF;
+    border-color:#FF900E;
+}
+.button.hi{
+    margin-bottom: 25px;
+}
+/* title are done  */
+.image img{
+    width: 80%;
+height: 600px;
+padding-left: 125px;
+margin-bottom: 20px;
+border-radius: 8px;
+}
+/* end of first section  */
+.second-sectiono{
+    margin-top: 45px;
+}
+.main-photo-container img{
+    width: 320px;
+    height: 320px;
+}
+.main-photo-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+}
+.second-sectiono{
+    display: flex;
+    gap: 40px;
+    padding: 10px 50px;
+}
+.for-description{
+    margin:200px 0;
+}
+.quick{
+    margin-bottom: 8px;
+}
+.quick .ql{
+    font-weight: 500;
+font-size: 45px;
+color: #727272;
+}
+.quick .of{
+    font-weight: 500;
+    font-size: 45px;
+    color:black
+}
+.features{
+    font-weight: 700;
+    font-size: 45px;
+    color:#FF900E;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+.para{
+    margin-bottom: 20px;
+    font-weight: 400;
+font-size: 16px;
+color: #727272;
+}
+/* second section ended  */
+.section-three{
+    margin-top: 25px;
+}
+.for-grid{
+    display: flex;
+    gap: 100px;
+}
+.big-description{
+    display: flex;
+    flex-direction: column;
+    padding-left: 50px;
+}
+.fet h2{
+    font-weight: 700;
+font-size: 45px;
+color: #131313;
+margin-bottom: 0px;
+margin-top: 5px;
+}
+.pepe{
+    font-weight: 400;
+font-size: 16px;
+color: #727272;
+}
+.desktop{
+    padding: 18px 20px;
+    background-color: ghostwhite;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+.last{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
